@@ -1,4 +1,3 @@
-# RumbleTsc
 
 Hello，我是柿橙，90后，坐标杭州，目前**离职状态**
 
@@ -11,11 +10,7 @@ Hello，我是柿橙，90后，坐标杭州，目前**离职状态**
 
 **1.Android开发（Kotlin / Java）**
 
-17年毕业，之前在同花顺、有赞、Boss直聘三家公司待过，参与开发过的app有：
-
-- 同花顺手机炒股app
-- 有赞微商城/有赞零售app
-- 店长直聘app
+17年毕业，之前在同花顺、有赞、Boss直聘三家公司待过，参与开发过的app有：同花顺手机炒股app、有赞微商城/有赞零售app、店长直聘app
 
 **2.跨端开发（Flutter / Weex）**
 
@@ -34,13 +29,5 @@ Hello，我是柿橙，90后，坐标杭州，目前**离职状态**
 <img src="images/xxfund_wechat.jpg" alt="示例图片" width="180" height="180" />
 
 ### 五、联系我
-
-考虑新的工作机会（Android / 大前端开发 / 全栈开发），如果你有合适的岗位，欢迎联系我。
-
-- 微信号
-
-<img src="images/qrcode_wechat.jpg" alt="示例图片" width="180" height="245" />
-
-- 邮箱
 
 rumbletsc@163.com
